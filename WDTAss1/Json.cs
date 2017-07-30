@@ -9,7 +9,7 @@ using Newtonsoft.Json;
 
 //----------------- Group 22 -----------------//
 //--------- s3494336 - Jackson Lloyd  ---------//
-//--------- s3541804 - Aedriane Heran ---------//
+//--------- s3541804 - Aedriane Hernan ---------//
 
 namespace WDTAss1
 {

@@ -1,0 +1,8 @@
+C:\Users\Jackson\Desktop\RMIT 17 sem1\Web Development Technologies\Assignment 1\WDTAss1\WDTAss1\bin\Release\WDTAss1.exe.config
+C:\Users\Jackson\Desktop\RMIT 17 sem1\Web Development Technologies\Assignment 1\WDTAss1\WDTAss1\bin\Release\WDTAss1.exe
+C:\Users\Jackson\Desktop\RMIT 17 sem1\Web Development Technologies\Assignment 1\WDTAss1\WDTAss1\bin\Release\WDTAss1.pdb
+C:\Users\Jackson\Desktop\RMIT 17 sem1\Web Development Technologies\Assignment 1\WDTAss1\WDTAss1\bin\Release\Newtonsoft.Json.dll
+C:\Users\Jackson\Desktop\RMIT 17 sem1\Web Development Technologies\Assignment 1\WDTAss1\WDTAss1\bin\Release\Newtonsoft.Json.xml
+C:\Users\Jackson\Desktop\RMIT 17 sem1\Web Development Technologies\Assignment 1\WDTAss1\WDTAss1\obj\Release\WDTAss1.exe
+C:\Users\Jackson\Desktop\RMIT 17 sem1\Web Development Technologies\Assignment 1\WDTAss1\WDTAss1\obj\Release\WDTAss1.pdb
+C:\Users\Jackson\Desktop\RMIT 17 sem1\Web Development Technologies\Assignment 1\WDTAss1\WDTAss1\obj\Release\WDTAss1.csprojResolveAssemblyReference.cache

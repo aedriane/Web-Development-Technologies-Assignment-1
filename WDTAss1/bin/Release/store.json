@@ -1,0 +1,22 @@
+[
+  {
+    "ID": 1,
+    "StoreName": "CBD"
+  },
+  {
+    "ID": 2,
+    "StoreName": "North"
+  },
+  {
+    "ID": 3,
+    "StoreName": "East"
+  },
+  {
+    "ID": 4,
+    "StoreName": "South"
+  },
+  {
+    "ID": 5,
+    "StoreName": "West"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ID": 1,
+    "StoreName": "cbd",
+    "Product": "Saw",
+    "Quantity": 2
+  },
+  {
+    "ID": 2,
+    "StoreName": "north",
+    "Product": "Rabbit",
+    "Quantity": 1
+  },
+  {
+    "ID": 3,
+    "StoreName": "west",
+    "Product": "Box",
+    "Quantity": 3
+  }
+]

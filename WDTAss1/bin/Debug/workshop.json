@@ -1,0 +1,19 @@
+[
+  {
+    "BookID": 1,
+    "Name": "Dark Arts",
+    "Date": "12/04/2017"
+  },
+
+    {
+    "BookID": 2,
+    "Name": "History of Magic",
+    "Date": "06/04/2017"
+  },
+  
+    {
+    "BookID": 3,
+    "Name": "Charms",
+    "Date": "08/04/2017"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "ID": 1,
+    "Product": "Rabbit",
+    "StockLevel": 32
+  },
+  {
+    "ID": 2,
+    "Product": "Hat",
+    "StockLevel": 96
+  },
+  {
+    "ID": 3,
+    "Product": "Cards",
+    "StockLevel": 121
+  },
+  {
+    "ID": 4,
+    "Product": "Saw",
+    "StockLevel": 78
+  },
+  {
+    "ID": 5,
+    "Product": "Box",
+    "StockLevel": 139
+  },
+  {
+    "ID": 6,
+    "Product": "Wand",
+    "StockLevel": 101
+  },
+  {
+    "ID": 7,
+    "Product": "Coin",
+    "StockLevel": 85
+  },
+  {
+    "ID": 8,
+    "Product": "Handcuff",
+    "StockLevel": 67
+  },
+  {
+    "ID": 9,
+    "Product": "Cups",
+    "StockLevel": 110
+  },
+  {
+    "ID": 10,
+    "Product": "Rings",
+    "StockLevel": 104
+  },
+  {
+    "ID": 11,
+    "Product": "Rope",
+    "StockLevel": 84
+  },
+  {
+    "ID": 12,
+    "Product": "Cloth",
+    "StockLevel": 91
+  },
+  {
+    "ID": 13,
+    "Product": "Pens",
+    "StockLevel": 160
+  },
+  {
+    "ID": 14,
+    "Product": "Thumbtip",
+    "StockLevel": 77
+  },
+  {
+    "ID": 15,
+    "Product": "Balls",
+    "StockLevel": 102
+  }
+]
